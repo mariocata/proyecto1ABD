@@ -7,3 +7,21 @@ Pasos:
 5)Ejecutar pubventa durante 10-15 segundos
 
 6)Abrir archivo Jupyter para obeservar data
+
+Librerias necesarias:
+itertools
+names
+ssl
+sys
+json
+random
+time
+paho.mqtt.client
+paho.mqtt.publish
+numpy 
+datetime
+psycopg2
+pandas 
+sqlite3
+matplotlib
+string
